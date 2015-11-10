@@ -13,7 +13,7 @@ public class BaseController {
 
 	private static int counter = 0;
 	private static final String VIEW_INDEX = "index";
-	private static final String VIEW_PLAYGAME ="playGame";
+	private static final String VIEW_PLAYGAME = "playGame";
 	private final static org.slf4j.Logger logger = LoggerFactory.getLogger(BaseController.class);
 
 	@RequestMapping(value = "/", method = RequestMethod.GET)
@@ -34,12 +34,13 @@ public class BaseController {
 		logger.debug("[welcomeName]: {}, counter : {}", name, counter);
 		return VIEW_INDEX;
 	}
-	@RequestMapping(value = "/playGame.jsp", method = RequestMethod.GET)
-	public ModelAndView playGame() {
-		
+
+	@RequestMapping(value = "/playGame", method = RequestMethod.GET)
+	public String playGame() {
+
 		logger.debug("Changing Page to playGame.jsp");
-		ModelAndView model = new ModelAndView("playGame");
-		return model;
+		//
+		return VIEW_PLAYGAME;
 	}
 
 }
