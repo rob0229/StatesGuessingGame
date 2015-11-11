@@ -16,7 +16,7 @@ public class BaseController {
 	private static final String VIEW_PLAYGAME = "playGame";
 	private final static org.slf4j.Logger logger = LoggerFactory.getLogger(BaseController.class);
 
-	@RequestMapping(value = "/", method = RequestMethod.GET)
+	@RequestMapping(value = "/*", method = RequestMethod.GET)
 	public String welcome(ModelMap model) {
 		model.addAttribute("message", "Welcome");
 		model.addAttribute("counter", ++counter);
@@ -26,21 +26,21 @@ public class BaseController {
 		return VIEW_INDEX;
 	}
 
-	@RequestMapping(value = "/{name}", method = RequestMethod.GET)
+	/*@RequestMapping(value = "/{name}", method = RequestMethod.GET)
 	public String welcomeName(@PathVariable String name, ModelMap model) {
 
 		model.addAttribute("message", "Welcome " + name);
 		model.addAttribute("counter", ++counter);
 		logger.debug("[welcomeName]: {}, counter : {}", name, counter);
 		return VIEW_INDEX;
-	}
+	}*/
 
-	@RequestMapping(value = "/playGame", method = RequestMethod.GET)
-	public String playGame() {
-
-		logger.debug("Changing Page to playGame.jsp");
-		//
-		return VIEW_PLAYGAME;
-	}
+//	@RequestMapping(value = "/playGame", method = RequestMethod.GET)
+//	public String playGame(ModelMap model) {
+//
+//		logger.debug("Changing Page to playGame.jsp");
+//		//
+//		return VIEW_PLAYGAME;
+//	}
 
 }
