@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1>HOMEEEEASDFASDFASDFPAGE</h1>
+	<h1>States Guessing Game Landing Page</h1>
 	<p>The object of this game is to guess the randomly selected state
 		in the least amount of tries.</p>
 	<p>On start, the computer will randomly select a State. You will
