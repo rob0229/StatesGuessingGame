@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1>HOMEEEEASDFASDFASDFPAGE</h1>
+	<h1>States Guessing Game</h1>
 	<p>The object of this game is to guess the randomly selected state
 		in the least amount of tries.</p>
 	<p>On start, the computer will randomly select a State. You will
@@ -16,7 +16,7 @@
 			the secret state!</li>
 	</ul>
 	<div>
-		<input type="button"  onclick="location.href='/GuessingGame.html'" value="Go to guessing game!" >
+		<input type="button"  onclick="location.href='/playGame.jsp'" value="Start Game!" >
 	</div>
 
 

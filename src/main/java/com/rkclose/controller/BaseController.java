@@ -13,14 +13,31 @@ public class BaseController {
 
 	private static int counter = 0;
 	private static final String VIEW_INDEX = "index";
-	private static final String VIEW_PLAYGAME = "playGame";
+	private static final String VIEW_PLAYGAME = "/StatesGuessingGame/playGame.html";
+	private static final String VIEW_GUESSINGGAME_HOME = "/StatesGuessingGame/GuessingGame.html";
 	private final static org.slf4j.Logger logger = LoggerFactory.getLogger(BaseController.class);
 
-	@RequestMapping(value = "/*", method = RequestMethod.GET)
+	@RequestMapping(value = "/playGame", method = RequestMethod.GET)
+	public String playGame(ModelMap model) {
+		logger.debug("made it the playgame page");
+
+		// Spring uses InternalResourceViewResolver and return back index.jsp
+		return VIEW_PLAYGAME;
+	}
+	
+	@RequestMapping(value = "/GuessingGame", method = RequestMethod.GET)
 	public String welcome(ModelMap model) {
 		model.addAttribute("message", "Welcome");
 		model.addAttribute("counter", ++counter);
 		logger.debug("[welcome] counter : {}", counter);
+
+		// Spring uses InternalResourceViewResolver and return back index.jsp
+		return VIEW_GUESSINGGAME_HOME;
+	}
+	
+	@RequestMapping(value = "/", method = RequestMethod.GET)
+	public String indexPage(ModelMap model) {
+		logger.debug("hey fuckder this is the home page being served up!!!!!!!!");
 
 		// Spring uses InternalResourceViewResolver and return back index.jsp
 		return VIEW_INDEX;
