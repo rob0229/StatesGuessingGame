@@ -33,9 +33,6 @@ function reset(){
         console.log("You pressed Cancel!");
     }
 }
-
-
-
 </script>
 <% String postGuess = request.getParameter("guess");  %>
 <link href="${resetCSS}" rel="stylesheet" type="text/css" />
@@ -51,14 +48,7 @@ function reset(){
 			<div id="map"></div>
 			<!--  <div id="text"></div> -->
 		</div>
-
-
-
-
 		<h1>States Guessing Game Landing Page! Guess is <%= request.getParameter("playerGuess") %></h1>
-
-
-
 		<div id="instructionBlock">
 			<p>The object of this game is to guess the randomly selected
 				state in the least amount of tries.</p>
@@ -86,8 +76,6 @@ function reset(){
 				</div>
 		</div>
 		</form>
-
-
 
 		<div>
 			<h2>Message : ${message}</h2>
