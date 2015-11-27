@@ -19,7 +19,7 @@ public class BaseController {
 
 	@RequestMapping(value = "/playGame", method = RequestMethod.GET)
 	public String playGame(ModelMap model) {
-		logger.debug("made it the playgame page");
+		logger.debug("made it to the playgame page");
 
 		// Spring uses InternalResourceViewResolver and return back index.jsp
 		return VIEW_PLAYGAME;
@@ -37,7 +37,7 @@ public class BaseController {
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String indexPage(ModelMap model) {
-		logger.debug("hey fuckder this is the home page being served up!!!!!!!!");
+		logger.debug("hey this is the home page being served up!!!!!!!!");
 
 		// Spring uses InternalResourceViewResolver and return back index.jsp
 		return VIEW_INDEX;
