@@ -6,6 +6,8 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
@@ -23,6 +25,7 @@ public class BaseController {
 
 		// Spring uses InternalResourceViewResolver and return back index.jsp
 		return VIEW_PLAYGAME;
+		
 	}
 	
 	@RequestMapping(value = "/GuessingGame", method = RequestMethod.GET)
@@ -36,8 +39,9 @@ public class BaseController {
 	}
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
-	public String indexPage(ModelMap model) {
-		logger.debug("hey this is the home page being served up!!!!!!!!");
+	@ResponseBody
+	public String indexPage(ModelMap model, @RequestParam( defaultValue = "") String playerGuess) {
+		logger.debug("The  playerGuess in the business end is: " + playerGuess);
 
 		// Spring uses InternalResourceViewResolver and return back index.jsp
 		return VIEW_INDEX;
