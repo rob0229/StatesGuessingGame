@@ -76,10 +76,9 @@ function reset(){
 				</div>
 		</div>
 		</form>
-	<div>Results are: ${results}</div>
-		<div>
-			<h2>Message : ${message}</h2>
-			<h2>Counter : ${counter}</h2>
-		</div>
+	<div>
+		<h2>Results are: ${results}</h2>
+	</div>
+		
 	</div>
 	<jsp:include page="footer.jsp" />
