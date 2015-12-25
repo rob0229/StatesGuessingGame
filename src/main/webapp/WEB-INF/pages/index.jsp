@@ -76,7 +76,7 @@ function reset(){
 				</div>
 		</div>
 		</form>
-
+	<div>Results are: ${results}</div>
 		<div>
 			<h2>Message : ${message}</h2>
 			<h2>Counter : ${counter}</h2>

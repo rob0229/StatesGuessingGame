@@ -14,7 +14,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class BaseController {
 
 	private static int counter = 0;
-	private static final String VIEW_INDEX = "index";
+	private static final String VIEW_INDEX = "/index";
 	private static final String VIEW_PLAYGAME = "/StatesGuessingGame/playGame.html";
 	private static final String VIEW_GUESSINGGAME_HOME = "/StatesGuessingGame/GuessingGame.html";
 	private final static org.slf4j.Logger logger = LoggerFactory.getLogger(BaseController.class);
@@ -22,7 +22,7 @@ public class BaseController {
 	@RequestMapping(value = "/playGame", method = RequestMethod.GET)
 	public String playGame(ModelMap model) {
 		logger.debug("made it to the playgame page");
-
+		 model.addAttribute("results", "You are piss warm");
 		// Spring uses InternalResourceViewResolver and return back index.jsp
 		return VIEW_PLAYGAME;
 		
@@ -39,7 +39,7 @@ public class BaseController {
 	}
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
-	@ResponseBody
+	//@ResponseBody
 	public String indexPage(ModelMap model, @RequestParam( defaultValue = "") String playerGuess) {
 		logger.debug("The  playerGuess in the business end is: " + playerGuess);
 
