@@ -25,14 +25,6 @@
 	src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.js"></script>
 <script type="text/javascript">
 
-function reset(){
-    var r = confirm("Are you sure you want to reset the game?");
-    if (r == true) {
-       console.log("You pressed OK!");
-    } else {
-        console.log("You pressed Cancel!");
-    }
-}
 </script>
 <% String postGuess = request.getParameter("guess");  %>
 <link href="${resetCSS}" rel="stylesheet" type="text/css" />
@@ -66,19 +58,16 @@ function reset(){
 			</ul>
 		</div>
 		<div>
-			<form action="#" method="GET" type="submit">
-				<div>
-					<input type="text" id="playerGuess" name="playerGuess" />
-				</div>
-				<div>
-					<input type="submit" value="Submit Guess"> 
-					<input type="button" value="Reset" onclick=reset()>
-				</div>
-		</div>
-		</form>
+			<form action="#" method="GET" >
+				<table>
+					<tr><td><input type="text" id="playerGuess" name="playerGuess"/> </td></tr>
+					<tr><td><input type="submit" value="Submit Guess"/> </td></tr>
+					<tr><td><input type="button" value="Reset" /> </td></tr>
+				</table>
+			</form>
+		</div>	
 	<div>
 		<h2>Results are: ${results}</h2>
-	</div>
-		
+		<h2>Random State is: ${secret}</h2>
 	</div>
 	<jsp:include page="footer.jsp" />

@@ -10,8 +10,6 @@ public class StatesGraph {
 
     private  Map<Integer, ArrayList<Integer>> Adjacency_List;
     
-    
-    
     public Map<Integer, ArrayList<Integer>> getAdjacency_List() {
 		return Adjacency_List;
 	}

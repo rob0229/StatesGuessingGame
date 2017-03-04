@@ -16,8 +16,7 @@ import org.slf4j.LoggerFactory;
 import com.rkclose.controller.BaseController;
 
 public class StatesGame {
-	private final static org.slf4j.Logger logger = LoggerFactory
-			.getLogger(BaseController.class);
+	private final static org.slf4j.Logger logger = LoggerFactory.getLogger(BaseController.class);
 	public String statesAdjacencyListFile = "/statesAdjacencyList.txt";
 	public String stateNamesFile = "/stateNames.txt";
 	StatesGraph graph;
@@ -59,15 +58,16 @@ public class StatesGame {
 		return instance;
 	}
 
-	private StatesGraph createGraph() throws FileNotFoundException,
-			IOException, JAXBException {
+	private StatesGraph createGraph() throws FileNotFoundException, IOException, JAXBException {
 		String data;
 		int num_verticies;
 		String[] edges;
 		StatesGraph graph;
-		//BufferedReader in = new BufferedReader(new FileReader(getClass().getClassLoader().getResource(filename).getFile()));
-		BufferedReader in = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(statesAdjacencyListFile)));
-        
+		// BufferedReader in = new BufferedReader(new
+		// FileReader(getClass().getClassLoader().getResource(filename).getFile()));
+		BufferedReader in = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(
+				statesAdjacencyListFile)));
+
 		data = in.readLine();
 		num_verticies = Integer.parseInt(data);
 		data = in.readLine();
@@ -93,8 +93,8 @@ public class StatesGame {
 			// error
 			return -1;
 		}
-		//WIN!!!!
-		else if(guess == randState){
+		// WIN!!!!
+		else if (guess == randState) {
 			return 0;
 		}
 
@@ -137,8 +137,9 @@ public class StatesGame {
 		int num = 1;
 		try {
 			@SuppressWarnings("resource")
-			BufferedReader names = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(stateNamesFile)));
-			
+			BufferedReader names = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(
+					stateNamesFile)));
+
 			String line = "";
 
 			while ((line = names.readLine()) != null) {
@@ -166,6 +167,31 @@ public class StatesGame {
 		this.numGuess = 0;
 		this.win = false;
 		this.distance = -1;
+	}
+
+	public int getRandState() {
+		return randState;
+	}
+
+	public String getStateNameFromInt(int index) {
+
+		BufferedReader names = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(stateNamesFile)));
+		String result = "Invalid Index";
+		if(index > 0 && index < 52){
+		try {
+			//just moves the readLine to the desired index
+			for (int i = 0; i < index-1; i++) {
+				names.readLine();
+			}
+			result = names.readLine();
+			names.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		}
+
+		return result;
 	}
 
 }

@@ -19,7 +19,7 @@ textAreaPadding = "10"
   <![CDATA[<h1>USA</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </defaultSideText>
 
-<stateData stateName="Alabama"  stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Alabama"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>ALABAMA</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -28,11 +28,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Alaska" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Alaska" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>ALASKA</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="Arizona" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Arizona" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>ARIZONA</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -41,11 +41,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Arkansas" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Arkansas" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>ARKANSAS</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="California" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="California" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>CALIFORNIA</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -54,11 +54,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Colorado"  stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Colorado"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>COLORADO</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="Connecticut"  stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Connecticut"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>CONNECTICUT</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -67,11 +67,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Delaware"  stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Delaware"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>DELAWARE</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="District of Columbia"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="District of Columbia"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>DISTRICT OF COLUMBIA</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -80,11 +80,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Florida"  stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Florida"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>FLORIDA</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="Georgia"  stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<stateData stateName="Georgia"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>GEORGIA</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -292,11 +292,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Tennessee"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="Tennessee"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>TENNESSEE</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="Texas"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="Texas"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>TEXAS</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -305,11 +305,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Utah"  stateMode = "OFF" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="Utah"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>UTAH</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="Vermont"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="Vermont"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>VERMONT</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -318,11 +318,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Virginia"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="Virginia"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>VIRGINIA</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="Washington"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="Washington"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>WASHINGTON</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -331,11 +331,11 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="West Virginia"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="West Virginia"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>WEST VIRGINIA</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
-<stateData stateName="Wisconsin"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="Wisconsin"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>WISCONSIN</h1>
 <b>Quisque viverra:</b><br /><br />
 <img width="75" height="75" src="resources/images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
@@ -344,7 +344,7 @@ textAreaPadding = "10"
 <img width="75" height="75" src="resources/images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
 </stateData>
 
-<stateData stateName="Wyoming"  stateMode = "ON" initialStateColor= "999966" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<stateData stateName="Wyoming"  stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
 <![CDATA[<h1>WYOMING</h1><br /><p><b>Hotel Sagittis</b><br>Lorem ipsum dolor sit amet, ursa ted, consectetur adipi.<br /><br /><img width="96" height="60" src="resources/images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
 </stateData>
 
