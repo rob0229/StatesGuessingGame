@@ -35,6 +35,7 @@
 </head>
 <body>
 	<div id="container">
+	<!-- <h2>Random State is: ${secret}</h2>-->
 
 		<div class="mapWrapper">
 			<div id="map"></div>
@@ -68,6 +69,6 @@
 		</div>	
 	<div>
 		<h2>Results are: ${results}</h2>
-		<h2>Random State is: ${secret}</h2>
+		
 	</div>
 	<jsp:include page="footer.jsp" />
